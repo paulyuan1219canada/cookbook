@@ -15,3 +15,9 @@
 5. 加入cheese，搅拌
 6. 摆盘
 7. 最后，加入芝士，以及香草
+
+## Time 
+- 2023-09-05 feedback is good. but hard to do it in current pot
+
+# [Instant Pot Spaghetti](https://www.pressurecookrecipes.com/instant-pot-spaghetti/)
+to do
