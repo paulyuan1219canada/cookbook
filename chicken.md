@@ -28,6 +28,7 @@
 ### Time
 - 2023-08-30
   - 反响不错
+- 2023-09-07: feedback is great.
 
 # 法式奶油炖鸡 by Pier先生 抖音
 
@@ -50,3 +51,4 @@
 9. 最后加入欧芹，上桌。
 ## Time
 - 2023-09-05: feedback is great.
+

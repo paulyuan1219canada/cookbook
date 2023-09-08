@@ -75,5 +75,6 @@
   - For Top Sirloin Roast: slice it into steak size.
 
 ## Time
-- 2023-09-07
+- 2023-09-07 feedback is awesome。我用的Top Sirloin about 1100g. reduce the pressure time to 3+22 mins.
+
 
