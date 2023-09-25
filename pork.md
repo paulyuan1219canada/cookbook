@@ -1,3 +1,14 @@
+# 猪骨汤 自创
+
+## 步骤
+1. 任意猪骨，洗干净，然后飞水，取出后冲干净。
+2. 热水中加入猪骨，土豆，胡萝卜，西芹，少许洋葱，然后加压30分钟即可。
+3. 出锅前用salt 和味精调味。
+
+## Time
+- 2023-09-24 feedback is good
+ 
+
 # [Instant Pot Balsamic Pork Tenderloin](https://www.lecremedelacrumb.com/instant-pot-balsamic-pork-tenderloin/)
 
 ## Ingredients
