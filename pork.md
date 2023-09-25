@@ -27,3 +27,23 @@
 
 ## Time
 - 2023-09-08
+
+# 红烧猪脚 自创
+
+## 步骤
+1. 猪脚切成小块，然后飞水。
+2. 热锅冷油，加冰糖划开，然后，下猪脚两面上色。
+3. 然后加入生抽，老抽，耗油，香叶，热水，高压锅30分钟。
+4. 出锅即可
+
+## Time
+- 2023-09-23
+  - 反响还不错，反应有点太肥了。 
+
+# [Instant Pot Pork Side Ribs](https://www.pressurecookrecipes.com/easy-bbq-instant-pot-ribs/)
+## 原料
+- 2kg pork side ribs
+- 
+## Time
+- 2023-09-23
+  - 反响还不错，就是做起来有点麻烦。 
