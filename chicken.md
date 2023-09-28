@@ -140,3 +140,26 @@
 3. 把油抹在鸡上，再放入锅里，剩下油也倒入
 4. 高压20分钟
 
+# [Instant pot chicken](Natashaskitchen.com)
+
+## 配料 
+- whole chikcen 4lb
+- chicken broth 1 cup
+- 4 cloves garlic, sliced
+- 2 tsp sea salt
+- 0.25 tsp black pepper
+- 1 tsp onion powder
+- 1 tsp garlic powder
+- 0.5 tsp paprika
+- rosemary
+- thyme
+- 8 tsp unsalted butter, kmel
+- 0.5 lemon, squeeze 1 tbsp juice
+- 
+## 步骤
+1. 整鸡擦干，胸部皮肉分离，用调羹
+2. 所有配料混合，从salt开始
+3. 锅内加入1 cup鸡汤，放入trivet
+4. 放入鸡，胸口朝上，塞入大蒜和柠檬，刚刚的调料一半马杀鸡，胸口皮肉之间，其他的地方涂抹均匀
+5. 24+15 in 高压锅
+6. 取出鸡，涂上salt pepper paprika，再烤5分钟 
