@@ -91,3 +91,12 @@
 - 2023-09-07 feedback is awesome。我用的Top Sirloin about 1100g. reduce the pressure time to 3+22 mins.
 
 
+# 韩式洋葱炒牛肉片
+
+## 步骤
+1. 一个洋葱切丝，热锅冷油超软。
+2. 大火，加入1lb的牛肉片，快速炒到七八分熟
+3. 加入韩式烧烤酱汁，大约5 table spoons, 简单调味即可出锅
+
+## time
+1. 2023-10-10： 晚餐，销路还不错。
