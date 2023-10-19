@@ -20,4 +20,7 @@
 - 2023-09-05 feedback is good. but hard to do it in current pot
 
 # [Instant Pot Spaghetti](https://www.pressurecookrecipes.com/instant-pot-spaghetti/)
-to do
+
+## Time 
+- 2023-10-18 
+  - feedback is good. 第二次做了，比较有信心了。
