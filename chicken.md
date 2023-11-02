@@ -56,7 +56,10 @@
 - 2023-09-25
   - 13个鸡腿，加入两个番茄和一个橙子
   - 反响很好 哈哈
-  -    
+- 2023-11-01
+  - 13个鸡腿，加入a pinto grape番茄和3 slices of lemon. lemon cannot be too much. Only a couple slices
+  - 反响很好 哈哈
+  - add some Italian seasoning.
 
 
 # 法式奶油炖鸡 by Pier先生 抖音
