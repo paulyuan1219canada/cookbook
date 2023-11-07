@@ -1,3 +1,12 @@
+# [Instant Pot Mac and Cheese by Nichole](https://thesaltymarshmallow.com/instant-pot-mac-and-cheese/#wprm-recipe-container-4012)
+
+## time
+- 2023-11-06
+  - 2nd try. 
+  - lunch. made in morning
+  - very tasty
+
+
 # 10 min spaghetti by 主厨Paolo 抖音
 
 ## 调料
