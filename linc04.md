@@ -1,15 +1,27 @@
-Henry Sknirb (HS): Hello, this is Henry Sknirb. I'm calling about the books I ordered for my English class from River Education Books. They arrived, but they're in terrible shape. They're falling apart, and I can't ask my students to pay that much for something that isn't made well. I hope the other products from River Education are better made.
+Lee Timson (LT): Good morning. This is Lee Timson from River Education Books. May I know whom I am talking to?
 
-Lee Timson (LT): Hello, Mr. Sknirb. I'm Lee Timson from River Education Books. I'm really sorry to hear about the condition of the books. Our motto is "Satisfaction guaranteed," and we take this feedback seriously. I assure you that you are entitled to a full refund. I'll process your refund immediately. Please keep the books as a token of our appreciation for the trouble. I hope this won't keep you from ordering from River Education Books again. If you have any other questions or concerns, please don't hesitate to contact us again.
+Henry Sknirb (HS): Hello, this is Henry Sknirb.
 
-HS: Thank you for your prompt response, Mr. Timson. I appreciate your understanding, and I'm glad to hear that I'll receive a refund. I'll keep the books as you suggested. Hopefully, our future transactions will be smoother.
+LT: Hello, Mr. Sknirb. How can I help you today?
 
-LT: We certainly hope so too, Mr. Sknirb. We value your business, and I'll make sure to note your feedback for our improvement. If there's anything else we can assist you with, please feel free to reach out. Your satisfaction is important to us.
+HS: I'm calling about the books I ordered for my English class. I just received the books. But they are in terrible shape. They're falling apart. I don't think my students are willing to pay for them.
 
-HS: That's reassuring to hear, Mr. Timson. I'd like to know the process for returning the books. Do I need to send them back to River Education Books or to the bookstore where I originally purchased them?
+LT: I'm really sorry to hear that. This is tatally our fault. I assure you that you are entitled to a full refund.
 
-LT: You can return the books to the bookstore where you originally purchased them. Once you've done that, please provide us with the receipt, and we'll handle the refund process from there. If you encounter any issues during the return, please let us know, and we'll assist you further.
+HS: Thank you very much. A refund will be great. Could you show me how to do that?
 
-HS: Thank you for clarifying that, Mr. Timson. I'll take care of the return and send you the necessary information. I appreciate your help in resolving this matter.
+LT: Sure. The return process is easy. I will email you a shipping label. Please pack all the books in one package and attach a printed label. Then you may drop it off at any post office convenient to you. There's no extra charge involved.
 
-LT: You're very welcome, Mr. Sknirb. We aim to make this process as smooth as possible for you. If you have any more questions or require further assistance, don't hesitate to call or email us. We're here to help.
+HS: That sounds simple. Thank you.
+
+LT: I am happy to help. In addition, please keep one copy to yourself, as a compensation from us. We value our business and strive to honor every customer.
+
+HS: That's very sweet. I will keep the copy. Thanks again.
+
+LT: Welcome. Is there anything else I could help today?
+
+HS: That's all for today. Thank you very much for your great help. I'd really appreciate it.
+
+LT: My pleasure. Wish you a wonderful day. Bye.
+
+HS: You too. Bye.
