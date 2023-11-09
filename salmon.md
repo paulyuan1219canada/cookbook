@@ -12,3 +12,16 @@ The Best Salmon You'll Ever Make (Restaurant-Quality) | Epicurious 101
 7. 当中间有一点红的时候，放入架子上rest，again，鱼皮朝上。
 8. 配上蔬菜沙拉和lemon即可。
 
+# Seaquest Pink Salmon Fillet Package Recipes
+
+## steps
+1. 冷冻鱼片拿出来，不用解冻
+2. 鱼皮朝下，然后撒上盐黑胡椒调味，少许食用油涂抹均匀。
+3. 用烘焙纸完整密封包起来
+4. 350度烤箱大约20分钟左右。即可
+
+## time
+- 2023-11-09
+  - quick try for 2 pieces, not bad
+
+
