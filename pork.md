@@ -25,6 +25,7 @@
 ## time
 - 2023-11-27 晚餐
   - 1.6kg带骨猪排 
+  - very tasty. Mike eats a lot.
 
 
 # 菠萝烤猪肋排 by 文森特别饿 抖音
