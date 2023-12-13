@@ -45,3 +45,7 @@
 6. High pressure for 10 mins, then natural relase of steam.
 7. Transfer chicken drumsticks to a serving plate, and to thicken the sauce to make gravy (optional), set the Instant Pot to SAUTE mode, and add 1 tablespoon of cornstarch mixed with 1 tablespoon of water. Add that to the sauce, and whisk until the sauce thickens. Have a taste and add more salt if needed.
 8. Pour the sauce over the chicken, and garnish with chopped parsley leaves.
+
+- 2023-12-12
+  - 3lb的鸡腿 13pc，感觉不错
+  - 
