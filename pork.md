@@ -1,3 +1,11 @@
+# Montana's Pork Back Ribs from Costco
+
+## steps
+1. Preheat oven to 375°F (190°C).
+2. Cover a baking sheet with aluminum foil or parchment paper.
+3. Pour contents of bag onto a baking sheet. Cover ribs with sauce.
+4. Bake for 22 to 26 minutes. Baste ribs with sauce halfway through cooking if desired.
+
 # 苹果炖猪排 by Pier先生
 
 ## 配料 2人份
