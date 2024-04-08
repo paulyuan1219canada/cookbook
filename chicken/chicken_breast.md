@@ -19,3 +19,7 @@
     *Note: The USDA recommends 165°F (74°C) as the safe internal temperature for cooked chicken. If the temperature is off by more than 10°F, quickly place the chicken breasts back in Instant Pot. Close the lid, then let the residual heat in Instant Pot cook the chicken breasts for 1 - 2 more minutes. If not, let the chicken breasts rest until it reaches 165°F (74°C). For Reference, our chicken breasts jumped to 165°F (74°C) after resting for 3 minutes.
 4. Serve: Once the chicken breast has reached 165°F (74°C), slice and serve immediately. You can also shred the chicken breasts, add your favorite dressings, sauces, or seasonings, then serve them in salads, sandwiches, or wraps. Enjoy~
 
+## keypoint
+- The salt amount is essential: 1000 ml water with 50g salt. This is the flavor I live.
+- All the other ingridents are optional
+- High pressure for 5 minutes and then natural release.
