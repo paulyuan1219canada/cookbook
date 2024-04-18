@@ -1,3 +1,16 @@
+# 橄榄菜三文鱼 自创
+
+## 步骤
+1. 首先把三文鱼头切成小块，洗干净，擦干水分，加入少许食盐研制，然后撒上玉米淀粉拌匀。
+2. 热锅冷油，下入三文鱼头，两面煎制上色，然后取出。
+3. 不用洗锅，转小火，下入洋葱超软。
+4. 加入橄榄菜，鱼露，糖，鸡汤，煮开。
+5. 下入三文鱼头，盖盖炖煮15分钟，最后调味即可。
+
+## time
+- 2024-04-13 反馈非常好。
+
+
 # [Pan Seared Salmon](https://www.youtube.com/watch?v=mxa-4hN1-qM)
 
 The Best Salmon You'll Ever Make (Restaurant-Quality) | Epicurious 101
