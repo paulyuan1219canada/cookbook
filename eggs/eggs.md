@@ -1,3 +1,20 @@
+# 日式糖心蛋
+## Ingredients
+- 酱油 3tbsp
+- 味淋 3tbsp
+- 清酒 1tbsp
+- 白砂糖 1tbsp
+- 白醋 1.5tbsp
+
+## steps
+1. cook eggs in instant pot, 4 min high pressure and 5 min natural release, then take out and put in ice water
+2. mix all ingredients.
+3. put eggs in the sauce and refrige them.
+
+## date
+- 2024-05-27
+  - replace tbsp with 1/4 cup 
+
 # [高压锅蒸蛋](https://www.pressurecookrecipes.com/steamed-eggs-savory-egg-custard/)
 
 ## Ingredients
