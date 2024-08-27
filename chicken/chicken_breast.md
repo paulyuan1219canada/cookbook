@@ -21,5 +21,6 @@
 
 ## keypoint
 - The salt amount is essential: 1000 ml water with 50g salt. This is the flavor I live.
+  - 2024-08-26: **3 pieces. try 1000ml water with 55g salt. Too salty. High pressure 5 mins, but it's not enough. Should extend to 7 minutes.**
 - All the other ingridents are optional
 - High pressure for 5 minutes and then natural release.
