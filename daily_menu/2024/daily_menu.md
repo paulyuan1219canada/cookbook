@@ -175,3 +175,7 @@ g黄油。因为都是含有20g fat，试试看。 结果还不错
 - 10: 昨天的牛肉加土豆，牛柳菠菜汤，清炒土豆丝，番茄炒蛋
 - 11: 空气炸锅鸡翅，昨天的牛肉土豆，胡萝卜炒西兰花
 - 12: 意大利调料鸡翅，红烧金鲳鱼，炒白菜
+- 13: costco potstickers and garlic ribs
+- 14: homemade wonton with beef stuffs
+- 15: wonton, Costco roast chicken, beef rib stewed with tomato, fried carrots and brocolli
+- 
