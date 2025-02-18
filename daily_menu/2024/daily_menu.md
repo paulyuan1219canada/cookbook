@@ -178,4 +178,6 @@ g黄油。因为都是含有20g fat，试试看。 结果还不错
 - 13: costco potstickers and garlic ribs
 - 14: homemade wonton with beef stuffs
 - 15: wonton, Costco roast chicken, beef rib stewed with tomato, fried carrots and brocolli
+- 16: 番茄炒蛋，牛肉馅饼
+- 17: 前天的炖牛肉里面加花生酱菜瓜土豆胡萝卜洋葱，大葱炒鸡蛋，costco锅贴，白切猪肚
 - 
