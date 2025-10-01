@@ -418,3 +418,4 @@ g黄油。因为都是含有20g fat，试试看。 结果还不错
 - 27: 自制包子纯肉馅，烤鸡翅
 - 28: dinner outside for pho and rice, no cooking today
 - 29: 越南牛肉汤下方便面，鸡汤煮豆腐鸡毛菜海鲜菇
+- 30: 清蒸虾，黄瓜
