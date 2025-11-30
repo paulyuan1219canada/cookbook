@@ -479,3 +479,7 @@ g黄油。因为都是含有20g fat，试试看。 结果还不错
 - 24: 泰国汤料竹主豆腐和牛肉丸，
 - 25: 清炒油菜，青椒炒豆腐干，香菇炖鸡腿
 - 25: Ching Choo, Choo, Gato ha Ching Chong yo Taha Shang 2 
+- 26: 红烧狮子头
+- 27: Costco烤鸡
+- 28: 香菇炖鸡腿的汤加入粉丝豆腐鱼丸 清炒西兰花，Costco烤鸡
+- 29: kfc，昨天剩菜
